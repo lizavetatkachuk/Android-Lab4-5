@@ -2,4 +2,8 @@
     <string name="app_name">lab5</string>
     <string name="lab4">Switch to lab 4</string>
     <string name="lab5">Switch to lab 5</string>
+    <string name="fade">Fade</string>
+    <string name="slide">Slide</string>
+    <string name="rotate">Rotate</string>
+    <string name="zoom">Zoom</string>
 </resources>
